@@ -1,0 +1,44 @@
+.App {
+
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 6em;
+  color: crimson;
+  text-align: center;
+  font-family: 'Crafty Girls';
+  
+}
+
+.App-intro {
+  font-size: large;
+  text-align: center;
+  width: 500;
+  height: 400;
+  margin: 15%;
+  border-bottom-left-radius: 10%;
+  border-bottom-right-radius: 10%;
+  border-top-left-radius: 10%;
+  border-top-right-radius: 10%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(247, 159, 200);
+  font-family: 'Finger Paint'
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
